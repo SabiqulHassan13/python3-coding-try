@@ -1,0 +1,28 @@
+Job and skills news
+https://blog.udacity.com/2014/11/data-science-job-skills.html
+https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+http://www.holehouse.org/mlclass/
+machine learning vedio lectures
+http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+windows7 iso file
+https://drive.google.com/drive/folders/0B6bNnleDp7llcGdMR3FEcjRjTGM
+
+tutorials links:
+Telesku learning
+https://www.youtube.com/watch?v=mbryl4MZJms&index=3&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+c++ tutorials
+https://www.youtube.com/watch?v=zl203Xj26AI&list=PLrKBFf87Cy9BVBAZ1Y-6Olzz0KTU4Qw6L
+Amuls Academy
+https://www.youtube.com/results?search_query=python+tutorial+amuls+academy
+sqlite tutorial
+https://www.guru99.com/sqlite-tutorial.html
+
+GRE and ToFEL books link
+https://www.youtube.com/watch?v=KEdXPFlMh4U
+https://drive.google.com/drive/folders/0Bxi3QDhHGlJjVEsyS004NktuQWM
+
+informations:
+# is called line comment
+''' is called paragraph comment
+" " is used to enclose a string
+python programs are case sensitive
